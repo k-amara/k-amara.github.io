@@ -1,0 +1,6 @@
+@article{amara2021nearest,
+  title={Nearest neighbor search with compact codes: A decoder perspective},
+  author={Amara, Kenza and Douze, Matthijs and Sablayrolles, Alexandre and J{\'e}gou, Herv{\'e}},
+  journal={arXiv preprint arXiv:2112.09568},
+  year={2021}
+}
