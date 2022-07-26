@@ -3,8 +3,7 @@ layout: publication_page
 show: true
 noheader: true
 
-title: "GraphFramEx: Towards Systematic Evaluation of
-Explainability Methods for Graph Neural Networks"
+title: "GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks"
 description: 
 
 date: 2022-06-09
@@ -21,7 +20,7 @@ authors:
     affiliations: [ETH Zürich]
 
 journal: ArXiv
-bib: /assets/bibliography/graphframex-towards-systematic-evaluation-of-explainability-methods-for-graph-neural-networks.txt
+bib: /assets/bibliography/graphframex.txt
 abstract: As one of the most popular machine learning models today, graph neural networks
 (GNNs) have attracted intense interest recently, and so does their explainability.
 Users are increasingly interested in a better understanding of GNN models and their
@@ -43,7 +42,7 @@ features, gradient-based methods, in particular Saliency, are the best according
 to our evaluation criteria. However, none dominates the others on all evaluation
 dimensions and there is always a trade-off. We further apply our evaluation protocol
 in a case study on eBay graphs to reflect the production environment.
-pdf: /assets/pdf/graphframex-towards-systematic-evaluation-of-explainability-methods-for-graph-neural-networks.pdf
+pdf: /assets/pdf/graphframex.pdf
 arxiv: https://arxiv.org/pdf/2206.09677.pdf
 img: /assets/img/splash-decoder.png
 
