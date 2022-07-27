@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /home/
+permalink: /
 title: Home
 description: ETH AI Center Doctoral Fellow. Studied at École polytechnique and ETH Zürich.
 
