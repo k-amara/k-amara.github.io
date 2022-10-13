@@ -10,12 +10,16 @@ nav: true
 
 Kenza Amara is a Doctoral Fellow at the ETH AI Center. She completed her BS and MSc in Computer Science and Applied Mathematics at Ecole Polytechnique Paris. She completed a second MSc in Environmental Sciences at ETH Zurich.
 
-Meanwhile, she had the opportunity to work in 2017 as teaching assistant at the Sino-French Institute of Nuclear Engineering (IFCEN) in Zhuhai, CHINA.
-The year after, she worked as Software Engineer intern at DAIKIN in Osaka, JAPAN.
-Beside this professional experience, she has run several research projects.
-In 2019, she worked on ML-based prediction of californinian wildfires at the Earth Institute of Columbia University, US.
-In 2020, she developed OneForest, a tree species detection algorithm based on GNN and optimal transport theory, at Crowther Lab, ETH Zurich.
-In 2021, she was part of Facebook AI Research group where she worked on enhancing decoder capacity for data compression retrieval.
+I am a Doctoral Fellow at the ETH AI Center. I completed my BS and MSc in Computer Science and Applied Mathematics at Ecole Polytechnique Paris. I completed a 2nd MSc in Environmental Sciences at ETH Zurich.
+
+Meanwhile, I have run several research project combining computer science and real-world applications.
+In 2022, I worked at Microsoft Research Cambridge to improve feature attribution methods in drug discovery.
+In 2021, I joined Facebook AI Research Paris where she worked on enhancing decoder capacity for data compression retrieval.
+In 2020, I developed OneForest, a tree species detection algorithm based on GNN and optimal transport theory, at Crowther Lab, ETH Zurich.
+In 2019, I worked on ML-based prediction of californinian wildfires at the Earth Institute of Columbia University, US.
+
+Besides my research experience, I have worked as Software Engineer intern at DAIKIN in Osaka, JAPAN in 2018.
+In 2017, I was full-time Teaching Assistant for 6 months at the Sino-French Institute of Nuclear Engineering (IFCEN) in Zhuhai, CHINA.
 
 ## Education
 
