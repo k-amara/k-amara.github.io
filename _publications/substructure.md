@@ -24,7 +24,6 @@ bib: /assets/bibliography/graphframex.txt
 abstract: In this paper, we propose, to our best knowledge, the first systematic evaluation framework for GNN explainability, considering explainability on three different “user needs:” explanation focus, mask nature, and mask transformation. We propose a unique metric that combines the fidelity measures and classify explanations based on their quality of being sufficient or necessary.
 pdf: /assets/pdf/a-substructure-aware-loss-for-feature-attribution-in-drug-discovery.pdf
 arxiv: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/633a98bbea6a22542f06e149/original/a-substructure-aware-loss-for-feature-attribution-in-drug-discovery.pdf
-img:
 
 # Below is an example of injecting additional page-specific styles.
 # If you use this page as a template, delete this _styles block.
