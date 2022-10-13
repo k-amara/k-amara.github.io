@@ -15,12 +15,14 @@ news: true # includes a list of news items
 ## About me
 
 <div class="row">
-  <div class="col-md-8" markdown="1">
-  I am an ETH AI Center Doctoral Fellow. My research interest is on Explainability for Graph Neural Networks, and its use for atmospheric and climate models, banks, and the e-​commerce. I am particularly interested in 
-  - the fundamental ideas of deep learning on graphs, neural network interpretability, network analysis as well as graph theory and reinforcement learning
-  - applications in environmental sciences and social networks. 
-  
-  I am part of the DS3Lab ([Institute for Computing Platforms - Systems Group](https://systems.ethz.ch/)) led by Prof. [Ce Zhang](https://systems.ethz.ch/people/profile.ce-zhang.html), the [Social Networks Lab](https://sn.ethz.ch/) led by Prof. [Ulrik Brandes](https://sn.ethz.ch/profile.html?persid=239462) and the IAC ([Institute for Atmospheric and Climate Science](https://iac.ethz.ch/)) led by Prof. [Sebastian Schemm](https://usys.ethz.ch/en/people/profile.MTU3ODEz.TGlzdC8yODUyLDMyMDE5NzIyMg==.html).
+  <div class="col-md-8" markdown="1"> 
+    I am an ETH AI Center Doctoral Fellow. 
+    My research interest is on explainability for graph neural networks (GNNs), and its use for health, atmospheric and climate models, banks, and the e-commerce. 
+    I am particularly interested in:
+    - the fundamental ideas of deep learning on graphs, neural network interpretability, network analysis as well as graph theory and reinforcement learning. 
+    - applications in health, environmental sciences and social networks. 
+    
+    I am part of the DS3Lab ([Institute for Computing Platforms - Systems Group](https://systems.ethz.ch/)) led by Prof. [Ce Zhang](https://systems.ethz.ch/people/profile.ce-zhang.html), the [Social Networks Lab](https://sn.ethz.ch/) led by Prof. [Ulrik Brandes](https://sn.ethz.ch/profile.html?persid=239462) and the IAC ([Institute for Atmospheric and Climate Science](https://iac.ethz.ch/)) led by Prof. [Sebastian Schemm](https://usys.ethz.ch/en/people/profile.MTU3ODEz.TGlzdC8yODUyLDMyMDE5NzIyMg==.html).
 
 Prior to my PhD, I studied at École polytechnique, majoring in computer science and mathematics. I also hold a Master's degree from ETH Zürich in environmental sciences and policy.
 
