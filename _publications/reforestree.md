@@ -6,12 +6,19 @@ noheader: true
 title: "ReforesTree: A Dataset for Estimating Tropical Forest Carbon Stock with Deep Learning and Aerial Imagery"
 description:
 
-date: 2022-01-26
+date: 2021-01-26
 
 authors:
+  - Gyri Reiersen
+  - David Dao
+  - Bjorn Lütjens
+  - Konstantin Klemmer
   - name: <b>Kenza Amara</b>
     url: "https://k-amara.github.io/"
     affiliations: [ETH AI Center]
+  - Attila Steinegger
+  - Ce Zhang
+  - Xiaoxiang Zhu
 
 journal: ArXiv
 bib: /assets/bibliography/reforestree.txt
