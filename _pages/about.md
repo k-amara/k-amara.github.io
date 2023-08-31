@@ -8,17 +8,15 @@ nav: true
 
 ## Short Bio
 
-Kenza Amara is a Doctoral Fellow at the ETH AI Center. She completed her BS and MSc in Computer Science and Applied Mathematics at Ecole Polytechnique Paris. She completed a second MSc in Environmental Sciences at ETH Zurich.
-
-I am a Doctoral Fellow at the ETH AI Center. I completed my BS and MSc in Computer Science and Applied Mathematics at Ecole Polytechnique Paris. I completed a 2nd MSc in Environmental Sciences at ETH Zurich.
+I am a Doctoral Fellow at the ETH AI Center, supervised by Prof. Andreas Krause and Prof. Menna El-Assady at ETH Zurich. I completed my BS and MSc in Computer Science and Applied Mathematics at Ecole Polytechnique Paris. I completed a 2nd MSc in Environmental Sciences at ETH Zurich.
 
 Meanwhile, I have run several research project combining computer science and real-world applications.
 In 2022, I worked at Microsoft Research Cambridge to improve feature attribution methods in drug discovery.
-In 2021, I joined Facebook AI Research Paris where she worked on enhancing decoder capacity for data compression retrieval.
+In 2021, I joined Facebook AI Research Paris where I worked on enhancing decoder capacity for data compression retrieval.
 In 2020, I developed OneForest, a tree species detection algorithm based on GNN and optimal transport theory, at Crowther Lab, ETH Zurich.
-In 2019, I worked on ML-based prediction of californinian wildfires at the Earth Institute of Columbia University, US.
+In 2019, I worked on ML-based prediction of californian wildfires at the Earth Institute of Columbia University, US.
 
-Besides my research experience, I have worked as Software Engineer intern at DAIKIN in Osaka, JAPAN in 2018.
+Besides my research experience, I have worked as a Software Engineer intern at DAIKIN in Osaka, JAPAN in 2018.
 In 2017, I was full-time Teaching Assistant for 6 months at the Sino-French Institute of Nuclear Engineering (IFCEN) in Zhuhai, CHINA.
 
 ## Education
@@ -31,12 +29,15 @@ PhD in Computer Science.
 ### ETH Zürich
 
 _2019 - 2021._\\
-Masters in Environmental Sciences and Policy.
+Master in Environmental Sciences and Policy.
 
-### École polytechnique
+### École Polytechnique Paris
 
-_2016 - 2019._\\
-Best Engineering School in France - Bachelor of Science & Masters of Science in Data Science.
+_2017 - 2019._\\
+Master in Computer Science.
+
+_2014 - 2016._\\
+Bachelor of Science & Engineering in Computer Science and Applied Mathematics.
 
 <!-- Awards:
 - Research Internship Award (granted to the 10 best internships of the year over 200)

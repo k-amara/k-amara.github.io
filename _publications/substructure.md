@@ -19,7 +19,7 @@ authors:
     url: "https://scholar.google.com/citations?user=ZF7X7ucAAAAJ&hl=en"
     affiliations: [Novartis]
 
-journal: ChemrXiv
+journal: Journal of Cheminformatics
 bib: /assets/bibliography/substructure.txt
 abstract: Explainable machine learning is increasingly used in drug discovery to help rationalize compound property predictions. In this work we present a modification to the regression objective of GNNs to specifically account for common core structures between pairs of molecules. The proposed approach shows higher accuracy on a recently-proposed explainability benchmark.
 pdf: /assets/pdf/a-substructure-aware-loss-for-feature-attribution-in-drug-discovery.pdf
