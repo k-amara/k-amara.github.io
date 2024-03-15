@@ -20,26 +20,7 @@ authors:
     affiliations: [Yale University]
 
 bib: /assets/bibliography/ginx-eval.txt
-abstract: Diverse explainability methods of graph neural networks (GNN) have recently
-been developed to highlight the edges and nodes in the graph that contribute
-the most to the model predictions. However, it is not clear yet how to evaluate
-the correctness of those explanations, whether it is from a human or a model
-perspective. One unaddressed bottleneck in the current evaluation procedure
-is the problem of out-of-distribution explanations, whose distribution differs
-from those of the training data. This important issue affects existing evaluation
-metrics such as the popular faithfulness or fidelity score. In this paper, we
-show the limitations of faithfulness metrics. We propose GInX-Eval (Graph
-In-distribution eXplanation Evaluation), an evaluation procedure of graph
-explanations that overcomes the pitfalls of faithfulness and offers new insights
-on explainability methods. Using a fine-tuning strategy, the GInX score measures
-how informative removed edges are for the model and the HomophilicRank score
-evaluates if explanatory edges are correctly ordered by their importance and the
-explainer accounts for redundant information. GInX-Eval verifies if ground-truth
-explanations are instructive to the GNN model. In addition, it shows that many
-popular methods, including gradient-based methods, produce explanations that
-are not better than a random designation of edges as important subgraphs,
-challenging the findings of current works in the area. Results with GInX-Eval
-are consistent across multiple datasets and align with human evaluation.
+abstract: In this paper, we show the limitations of faithfulness metrics. We propose GInX-Eval (Graph In-distribution eXplanation Evaluation), an evaluation procedure of graph explanations that overcomes the pitfalls of faithfulness and offers new insights on explainability methods. Using a fine-tuning strategy, the GInX score measures how informative removed edges are for the model and the HomophilicRank score evaluates if explanatory edges are correctly ordered by their importance and the explainer accounts for redundant information. GInX-Eval verifies if ground-truth explanations are instructive to the GNN model. In addition, it shows that many popular methods, including gradient-based methods, produce explanations that are not better than a random designation of edges as important subgraphs, challenging the findings of current works in the area. Results with GInX-Eval are consistent across multiple datasets and align with human evaluation.
 pdf: /assets/pdf/ginx-eval.pdf
 url: https://openreview.net/pdf?id=w6Qnoy2RXG
 

@@ -1,0 +1,6 @@
+@article{amara2024syntaxshap,
+  title={SyntaxShap: Syntax-aware Explainability Method for Text Generation},
+  author={Amara, Kenza and Sevastjanova, Rita and El-Assady, Mennatallah},
+  journal={arXiv preprint arXiv:2402.09259},
+  year={2024}
+}

@@ -18,22 +18,8 @@ authors:
     url: "https://el-assady.com/"
     affiliations: [ETH Zürich]
 
-abstract: To harness the power of large language models
-in safety-critical domains we need to ensure
-the explainability of their predictions. However, despite the significant attention to model
-interpretability, there remains an unexplored domain in explaining sequence-to-sequence tasks
-using methods tailored for textual data. This
-paper introduces SyntaxShap, a local, modelagnostic explainability method for text generation that takes into consideration the syntax
-in the text data. The presented work extends
-Shapley values to account for parsing-based
-syntactic dependencies. Taking a game theoric approach, SyntaxShap only considers coalitions constraint by the dependency tree. We
-adopt a model-based evaluation to compare
-SyntaxShap and its weighted form to state-ofthe-art explainability methods adapted to text
-generation tasks, using diverse metrics including faithfulness, complexity, coherency, and
-semantic alignment of the explanations to the
-model. We show that our syntax-aware method
-produces explanations that help build more
-faithful, coherent, and interpretable explanations for predictions by autoregressive models.
+bib: /assets/bibliography/syntaxshap.txt
+abstract: This paper introduces SyntaxShap, a local, model-agnostic explainability method for text generation that takes into consideration the syntax in the text data. The presented work extends Shapley values to account for parsing-based syntactic dependencies. Taking a game theoric approach, SyntaxShap only considers coalitions constraint by the dependency tree. We adopt a model-based evaluation to compare SyntaxShap and its weighted form to state-of-the-art explainability methods adapted to text generation tasks, using diverse metrics including faithfulness, complexity, coherency, and semantic alignment of the explanations to the model. We show that our syntax-aware method produces explanations that help build more faithful, coherent, and interpretable explanations for predictions by autoregressive models.
 pdf: /assets/pdf/syntaxshap.pdf
 url: https://arxiv.org/pdf/2402.09259.pdf
 
