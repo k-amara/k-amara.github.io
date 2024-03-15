@@ -12,12 +12,6 @@ authors:
   - name: <b>Kenza Amara</b>
     url: "https://k-amara.github.io/"
     affiliations: [ETH AI Center]
-  - name: Rex Ying
-    url: "https://cs.stanford.edu/people/rexy/"
-    affiliations: [Stanford]
-  - name: Ce Zhang
-    url: "https://ds3lab.inf.ethz.ch/members/ce-zhang.html"
-    affiliations: [ETH Zürich]
 
 journal: ArXiv
 bib: /assets/bibliography/graphframex.txt
