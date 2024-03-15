@@ -19,11 +19,10 @@ authors:
     url: "https://ds3lab.inf.ethz.ch/members/ce-zhang.html"
     affiliations: [ETH Zürich]
 
-journal: ArXiv
 bib: /assets/bibliography/graphframex.txt
 abstract: In this paper, we propose the first systematic evaluation framework for GNN explainability, considering explainability on three different “user needs:” explanation focus, mask nature, and mask transformation. We propose a unique metric that combines the fidelity measures and classify explanations based on their quality of being sufficient or necessary.
 pdf: /assets/pdf/graphframex.pdf
-arxiv: https://arxiv.org/pdf/2206.09677.pdf
+url: https://openreview.net/pdf?id=rGVGf1T-dK
 
 # Below is an example of injecting additional page-specific styles.
 # If you use this page as a template, delete this _styles block.

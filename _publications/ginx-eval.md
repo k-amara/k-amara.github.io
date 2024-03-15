@@ -6,7 +6,7 @@ noheader: true
 title: "GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Network Explanations"
 description:
 
-date: 2022-06-09
+date: 2023-12-09
 
 authors:
   - name: <b>Kenza Amara</b>

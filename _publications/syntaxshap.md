@@ -3,21 +3,40 @@ layout: publication_page
 show: true
 noheader: true
 
-title: "GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks"
+title: "SyntaxShap: Syntax-aware Explainability Method for Text Generation"
 description:
 
-date: 2022-06-09
+date: 2024-02-15
 
 authors:
   - name: <b>Kenza Amara</b>
     url: "https://k-amara.github.io/"
     affiliations: [ETH AI Center]
+  - name: Rita Sevastjanova
+    affiliations: [ETH Zürich]
+  - name: Mennatallah El-Assady
+    url: "https://el-assady.com/"
+    affiliations: [ETH Zürich]
 
-journal: ArXiv
-bib: /assets/bibliography/graphframex.txt
-abstract: In this paper, we propose the first systematic evaluation framework for GNN explainability, considering explainability on three different “user needs:” explanation focus, mask nature, and mask transformation. We propose a unique metric that combines the fidelity measures and classify explanations based on their quality of being sufficient or necessary.
-pdf: /assets/pdf/graphframex.pdf
-arxiv: https://arxiv.org/pdf/2206.09677.pdf
+abstract: To harness the power of large language models
+in safety-critical domains we need to ensure
+the explainability of their predictions. However, despite the significant attention to model
+interpretability, there remains an unexplored domain in explaining sequence-to-sequence tasks
+using methods tailored for textual data. This
+paper introduces SyntaxShap, a local, modelagnostic explainability method for text generation that takes into consideration the syntax
+in the text data. The presented work extends
+Shapley values to account for parsing-based
+syntactic dependencies. Taking a game theoric approach, SyntaxShap only considers coalitions constraint by the dependency tree. We
+adopt a model-based evaluation to compare
+SyntaxShap and its weighted form to state-ofthe-art explainability methods adapted to text
+generation tasks, using diverse metrics including faithfulness, complexity, coherency, and
+semantic alignment of the explanations to the
+model. We show that our syntax-aware method
+produces explanations that help build more
+faithful, coherent, and interpretable explanations for predictions by autoregressive models.
+pdf: /assets/pdf/syntaxshap.pdf
+url: https://arxiv.org/pdf/2402.09259.pdf
+
 
 # Below is an example of injecting additional page-specific styles.
 # If you use this page as a template, delete this _styles block.
