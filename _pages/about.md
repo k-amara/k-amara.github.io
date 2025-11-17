@@ -6,17 +6,33 @@ description: Detailed Curriculum Vitae, last updated 2022 <a href="/assets/pdf/c
 nav: true
 ---
 
-## Short Bio
+## About me
 
-Hi! I’m Kenza Amara, an AI researcher passionate about making intelligent systems more interpretable, reliable, and truly multimodal. I recently completed my PhD at the ETH AI Center in Zurich, where I explored how large language models and vision–language models reason, what concepts they rely on, and how we can steer their behavior in a transparent and meaningful way.
+I recently completed my PhD as a Doctoral Fellow at the [ETH AI Center](https://ai.ethz.ch/).  
+My work focuses on explainability for large language models, graph neural networks, and multimodal architectures, with applications in health, climate, and social systems.
 
-My work sits at the intersection of explainability, multimodal learning, and alignment. During my PhD, I developed ConceptX, a method that uncovers the key concepts driving an LLM’s responses, as well as new tools for analyzing and improving how VLMs use visual versus textual information in complex reasoning tasks. I love building simple ideas that reveal deep insights into how models “think.”
+My main interests include:
 
-Before and during my doctorate, I worked in several AI research labs, including Microsoft Research Cambridge, Meta AI, and IBM Research Zurich, where I designed explainability tools, improved GNNs for molecular prediction, and created multimodal evaluation pipelines. Most recently, I also spent time in a stealth robotics startup working on drones, aerodynamics, and 3D modeling — I enjoy taking AI from theory into the physical world.
+- LLM explainability — model-agnostic XAI, post-hoc evaluation, linguistic perturbations  
+- Deep learning on graphs — GNN explainability, network analysis, graph theory  
+- Multimodal explainability — image, text, and graph representations  
+- Generative AI for molecular design and drug discovery  
+- AI applications in health, climate, and social networks
 
-I studied at École Polytechnique in France and later completed a master’s at ETH Zurich before joining the ETH AI Center as a PhD researcher. Along the way, I have taught machine learning courses, supervised student research projects, and given talks on explainability and multimodal AI. I love communicating ideas and making complex topics intuitive.
+I worked within the [ETH AI Center](https://ai.ethz.ch/) and the [IVIA Lab](https://ivia.ethz.ch/) led by Prof. [Mennatallah El-Assady](https://el-assady.com/).  
+Through co-supervised projects, I also collaborated with the [Social Networks Lab](https://sn.ethz.ch/) and the [Institute for Atmospheric and Climate Science](https://iac.ethz.ch/).
 
-Outside of research, you’ll find me exploring new cities, swimming, hiking or skying. Most of all, I’m driven by the goal of building AI systems that are aligned with human reasoning, easy to understand, and empowering for society.
+Before my PhD, I studied at École Polytechnique (computer science & mathematics) and completed a Master’s degree in Environmental Sciences at ETH Zürich.
+
+In parallel, I contributed to several applied research projects:
+- Microsoft Research Cambridge — explainability for molecular prediction  
+- Meta AI Paris — improving decoder architectures for compression retrieval  
+- Crowther Lab, ETH — species detection with GNNs and optimal transport  
+- Earth Institute, Columbia University — wildfire prediction  
+- DAIKIN Osaka — software engineering  
+- IFCEN Zhuhai — teaching assistant
+
+Outside research, I love exploring new places, swimming, hiking, and skiing.
 
 ## Education
 
