@@ -7,8 +7,10 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
+  --global-text-color-dark: #{$grey-color-very-dark};
   --global-theme-color: #{$blue-color};
   --global-hover-color: #{$blue-color};
+  --global-teal-color: #{$teal-color};
   --global-border-color: #{$grey-color-light};
   --global-navbar-bg-color: #{$bg-color-light};
   --global-footer-bg-color: #{$bg-color-light};
@@ -29,8 +31,10 @@ html[data-theme='dark'] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color-light};
+  --global-text-color-dark: #{$grey-color-light};
   --global-theme-color: #{$light-blue-color};
   --global-hover-color: #{$light-blue-color};
+  --global-teal-color: #{$teal-color-light};
   --global-border-color: #{$grey-color-dark};
   // --global-navbar-bg-color: #{$bg-color-dark-lighter};
   --global-navbar-bg-color: #{$bg-color-dark};

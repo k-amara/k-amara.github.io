@@ -27,9 +27,15 @@ $yellow-color:        #efcc00 !default;
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     darken($grey-color, 25%);
+$grey-color-very-dark: #333333 !default;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
+
+// Teal color for accent
+$teal-color:          #20B2AA !default;
+$teal-color-dark:     darken($teal-color, 10%);
+$teal-color-light:    lighten($teal-color, 10%);
 
 
 // Theme colors
