@@ -27,11 +27,15 @@
       {% if publi.doi %}
       <a href="{{ publi.doi}}" class="btn btn-publication">DOI</a>
       {% endif %}
-      {% if publi.url and not publi.doi %}
-      <a href="{{ publi.url}}" class="btn btn-publication">URL</a>
+      {% if publi.url %}
+        {% unless publi.doi %}
+        <a href="{{ publi.url}}" class="btn btn-publication">URL</a>
+        {% endunless %}
       {% endif %}
-      {% if publi.html and not publi.pdf %}
-      <a href="{{ publi.html}}" class="btn btn-publication">HTML</a>
+      {% if publi.html %}
+        {% unless publi.pdf %}
+        <a href="{{ publi.html}}" class="btn btn-publication">HTML</a>
+        {% endunless %}
       {% endif %}
     </div>
   </div>
