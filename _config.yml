@@ -59,6 +59,9 @@ collections:
   publications:
     output: true
     permalink: /publications/:path/
+  posts:
+    output: true
+    permalink: /blog/:path/
 
 news_limit: 10
 
