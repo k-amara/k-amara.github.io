@@ -11,6 +11,7 @@
   --global-theme-color: #{$blue-color};
   --global-hover-color: #{$blue-color};
   --global-teal-color: #{$teal-color};
+  --global-teal-color-dark: #{$teal-color-dark};
   --global-border-color: #{$grey-color-light};
   --global-navbar-bg-color: #{$bg-color-light};
   --global-footer-bg-color: #{$bg-color-light};
@@ -35,6 +36,7 @@ html[data-theme='dark'] {
   --global-theme-color: #{$light-blue-color};
   --global-hover-color: #{$light-blue-color};
   --global-teal-color: #{$teal-color-light};
+  --global-teal-color-dark: #{$teal-color};
   --global-border-color: #{$grey-color-dark};
   // --global-navbar-bg-color: #{$bg-color-dark-lighter};
   --global-navbar-bg-color: #{$bg-color-dark};
