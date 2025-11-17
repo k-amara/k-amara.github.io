@@ -1,0 +1,8 @@
+@misc{amara2024contextmattersvqareasoning,
+      title={Why context matters in VQA and Reasoning: Semantic interventions for VLM input modalities}, 
+      author={Kenza Amara and Lukas Klein and Carsten Lüth and Paul Jäger and Hendrik Strobelt and Mennatallah El-Assady},
+      year={2024},
+      eprint={2410.01690},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+}

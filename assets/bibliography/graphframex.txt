@@ -1,7 +1,9 @@
-@article{amara2022graphframex,
-    title={GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks},
-    author={Amara, Kenza and Ying, Rex and Zhang, Zitao and
-    Han, Zhihao and Shan, Yinan and Brandes, Ulrik and Schemm, Sebastian and Zhang, Ce},
-    journal={arXiv preprint arXiv:2206.09677},
-    year={2022}
+@InProceedings{amara2022graphframex,
+  title = 	 {GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks},
+  author =       {Kenza Amara and Ying, Zhitao and Zhang, Zitao and Han, Zhichao and Zhao, Yang and Shan, Yinan and Brandes, Ulrik and Schemm, Sebastian and Zhang, Ce},
+  booktitle = 	 {Proceedings of the First Learning on Graphs Conference},
+  pages = 	 {44:1--44:23},
+  year = 	 {2022},
+  volume = 	 {198},
+  publisher =    {PMLR},
 }

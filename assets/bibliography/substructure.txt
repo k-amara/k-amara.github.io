@@ -1,5 +1,10 @@
-@article{amara2022substructure,
-  title={A substructure-aware loss for feature attribution in drug discovery},
-  author={Amara, Kenza and Rodriguez-Perez, Raquel and Luna, Jos{\'e} Jim{\'e}nez},
-  year={2022}
+@article{amara2023explaining,
+  title={Explaining compound activity predictions with a substructure-aware loss for graph neural networks},
+  author={Kenza Amara and Rodriguez-Perez, Raquel and Jimenez-Luna, Jose},
+  journal={Journal of cheminformatics},
+  volume={15},
+  number={1},
+  pages={67},
+  year={2023},
+  publisher={Springer}
 }

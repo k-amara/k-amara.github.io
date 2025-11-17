@@ -1,0 +1,6 @@
+@article{amara2025concept,
+  title={Concept-Level Explainability for Auditing \& Steering LLM Responses},
+  author={Kenza Amara and Sevastjanova, Rita and El-Assady, Mennatallah},
+  journal={arXiv preprint arXiv:2505.07610},
+  year={2025}
+}

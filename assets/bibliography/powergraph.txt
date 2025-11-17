@@ -1,0 +1,8 @@
+@article{varbella2025powergraph,
+  title={PowerGraph: A power grid benchmark dataset for graph neural networks},
+  author={Varbella, Anna and Amara, Kenza and Gjorgiev, Blazhe and El-Assady, Mennatallah and Sansavini, Giovanni},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={110784--110804},
+  year={2025}
+}

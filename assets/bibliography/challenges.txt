@@ -1,0 +1,8 @@
+@inproceedings{amara2024challenges,
+  title={Challenges and opportunities in text generation explainability},
+  author={Kenza Amara and Sevastjanova, Rita and El-Assady, Mennatallah},
+  booktitle={World Conference on Explainable Artificial Intelligence},
+  pages={244--264},
+  year={2024},
+  organization={Springer}
+}

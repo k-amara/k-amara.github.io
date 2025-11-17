@@ -8,22 +8,21 @@ nav: true
 
 ## Short Bio
 
-I am a Doctoral Fellow at the ETH AI Center, supervised by Prof. Andreas Krause and Prof. Menna El-Assady at ETH Zurich. I completed my BS and MSc in Computer Science and Applied Mathematics at Ecole Polytechnique Paris. I completed a 2nd MSc in Environmental Sciences at ETH Zurich.
+Hi! I’m Kenza Amara, an AI researcher passionate about making intelligent systems more interpretable, reliable, and truly multimodal. I recently completed my PhD at the ETH AI Center in Zurich, where I explored how large language models and vision–language models reason, what concepts they rely on, and how we can steer their behavior in a transparent and meaningful way.
 
-Meanwhile, I have run several research project combining computer science and real-world applications.
-In 2022, I worked at Microsoft Research Cambridge to improve feature attribution methods in drug discovery.
-In 2021, I joined Facebook AI Research Paris where I worked on enhancing decoder capacity for data compression retrieval.
-In 2020, I developed OneForest, a tree species detection algorithm based on GNN and optimal transport theory, at Crowther Lab, ETH Zurich.
-In 2019, I worked on ML-based prediction of californian wildfires at the Earth Institute of Columbia University, US.
+My work sits at the intersection of explainability, multimodal learning, and alignment. During my PhD, I developed ConceptX, a method that uncovers the key concepts driving an LLM’s responses, as well as new tools for analyzing and improving how VLMs use visual versus textual information in complex reasoning tasks. I love building simple ideas that reveal deep insights into how models “think.”
 
-Besides my research experience, I have worked as a Software Engineer intern at DAIKIN in Osaka, JAPAN in 2018.
-In 2017, I was full-time Teaching Assistant for 6 months at the Sino-French Institute of Nuclear Engineering (IFCEN) in Zhuhai, CHINA.
+Before and during my doctorate, I worked in several AI research labs, including Microsoft Research Cambridge, Meta AI, and IBM Research Zurich, where I designed explainability tools, improved GNNs for molecular prediction, and created multimodal evaluation pipelines. Most recently, I also spent time in a stealth robotics startup working on drones, aerodynamics, and 3D modeling — I enjoy taking AI from theory into the physical world.
+
+I studied at École Polytechnique in France and later completed a master’s at ETH Zurich before joining the ETH AI Center as a PhD researcher. Along the way, I have taught machine learning courses, supervised student research projects, and given talks on explainability and multimodal AI. I love communicating ideas and making complex topics intuitive.
+
+Outside of research, you’ll find me exploring new cities, swimming, hiking or skying. Most of all, I’m driven by the goal of building AI systems that are aligned with human reasoning, easy to understand, and empowering for society.
 
 ## Education
 
 ### ETH AI Center, Zürich
 
-_2021 - ..._\\
+_2021 - 2025_\\
 PhD in Computer Science.
 
 ### ETH Zürich

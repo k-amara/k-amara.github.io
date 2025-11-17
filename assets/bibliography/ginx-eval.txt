@@ -1,6 +1,6 @@
-@article{amara2023ginx,
-  title={GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Network Explanations},
-  author={Amara, Kenza and El-Assady, Mennatallah and Ying, Rex},
-  journal={arXiv preprint arXiv:2309.16223},
-  year={2023}
+@inproceedings{amara2023ginx,
+  title={Ginx-eval: Towards in-distribution evaluation of graph neural network explanations},
+  author={Kenza Amara and El-Assady, Mennatallah and Ying, Rex},
+  booktitle = {NeurIPS 2023 Workshop on Explainable AI (XAIA)},
+  year = {2023}
 }
