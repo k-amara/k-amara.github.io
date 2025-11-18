@@ -8,16 +8,15 @@ nav: true
 
 ## About me
 
-Hi! I’m Kenza Amara, an AI researcher passionate about making intelligent systems more interpretable, reliable, and truly multimodal. I recently completed my PhD at the ETH AI Center in Zurich, where I explored how large language models and vision–language models reason, what concepts they rely on, and how we can steer their behavior in a transparent and meaningful way.
+Hi! I’m Kenza Amara, an AI researcher passionate about making intelligent systems more interpretable, reliable, and truly multimodal. I recently completed my PhD at the **ETH AI Center** in Zurich, where I explored how large language models and vision–language models reason, what concepts they rely on, and how we can steer their behavior in a transparent and meaningful way.
 
-My work sits at the intersection of explainability, multimodal learning, and alignment. During my PhD, I developed ConceptX, a method that uncovers the key concepts driving an LLM’s responses, as well as new tools for analyzing and improving how VLMs use visual versus textual information in complex reasoning tasks. I love building simple ideas that reveal deep insights into how models “think.”
+My work sits at the intersection of explainability, multimodal learning, and alignment. During my PhD, I developed **ConceptX**, a method that uncovers the key concepts driving an LLM’s responses, as well as new tools for analyzing and improving how VLMs use visual versus textual information in complex reasoning tasks. I love building simple ideas that reveal deep insights into how models “think.”
 
-Before and during my doctorate, I worked in several AI research labs, including Microsoft Research Cambridge, Meta AI, and IBM Research Zurich, where I designed explainability tools, improved GNNs for molecular prediction, and created multimodal evaluation pipelines. Most recently, I also spent time in a stealth robotics startup working on drones, aerodynamics, and 3D modeling — I enjoy taking AI from theory into the physical world.
+Before and during my doctorate, I worked in several AI research labs, including **Microsoft Research Cambridge**, **Meta AI**, and **IBM Research Zurich**, where I designed explainability tools, improved GNNs for molecular prediction, and created multimodal evaluation pipelines. Most recently, I also spent time in a stealth robotics startup working on drones, aerodynamics, and 3D modeling — I enjoy taking AI from theory into the physical world.
 
-I studied at École Polytechnique in France and later completed a master’s at ETH Zurich before joining the ETH AI Center as a PhD researcher. Along the way, I have taught machine learning courses, supervised student research projects, and given talks on explainability and multimodal AI. I love communicating ideas and making complex topics intuitive.
+I studied at **École Polytechnique** in France and later completed a master’s at **ETH Zurich** before joining the ETH AI Center as a PhD researcher. Along the way, I have taught machine learning courses, supervised student research projects, and given talks on explainability and multimodal AI. I love communicating ideas and making complex topics intuitive.
 
 Outside of research, you’ll find me exploring new cities, swimming, hiking or skying. Most of all, I’m driven by the goal of building AI systems that are aligned with human reasoning, easy to understand, and empowering for society.
-
 
 ## Education
 

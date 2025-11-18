@@ -9,7 +9,7 @@ nav: true
 <div class="publications-page">
   <div class="publications-header">
     <h1 class="publications-title">Selected Publications</h1>
-    <a href="/publications/" class="see-all-link">SEE ALL PUBLICATIONS ></a>
+    <a href="https://scholar.google.com/citations?user=e4wlh1AAAAAJ&hl=en" class="see-all-link" target="_blank" rel="noopener">SEE ALL PUBLICATIONS ></a>
   </div>
   
   <div class="publications">
